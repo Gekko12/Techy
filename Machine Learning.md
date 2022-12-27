@@ -60,7 +60,7 @@
     - Use the training set for finding the optimal parameters for the cost function
     - Use the validation set to get the polynomial with the least error 
     - Use the test set for estimating the generalization error
-+ Underfitting: high blas
++ Underfitting: high bias
 + Overfitting: high variance
-+ How are the predictions far off from the actual values is measured by Blas 
++ How are the predictions far off from the actual values is measured by Bias 
 + To what extent are the predictions for a given point change between various realizations of the model is measured by variance
